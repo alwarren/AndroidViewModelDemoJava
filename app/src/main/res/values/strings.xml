@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">View Model Java Demo</string>
+    <string name="action_reset">Reset</string>
+    <string name="hello_world">Hello World!!!</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="text_input_dialog_title">Enter Value</string>
+    <string name="text_input_dialog_error">Must implement TextInputDialog.OnTextResult</string>
+</resources>
